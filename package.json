@@ -1,0 +1,25 @@
+{
+  "name": "trumptranslatebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbaxa16/translatetrumpbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbaxa16/translatetrumpbot/issues"
+  },
+  "homepage": "https://github.com/bbaxa16/translatetrumpbot#readme"
+}
